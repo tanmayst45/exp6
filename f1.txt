@@ -1,1 +1,3 @@
 line one:This is f1
+:line 2:this is line 2>>f1/txt
+echo :line 2:this is line 2
